@@ -3,6 +3,8 @@ This is the most advanced and well-off Base you can get with a FiveM server!
 
 This was originally pulled from a server I was head dev on called [Cops VS Civs RP](https://youtube.com/poogan), and which I removed a lot of the customized and paid-for resources and instead just turned it into a very solid base that anyone is free to use!
 
+- Direct Download [here](https://hyperz.dev/fivembase1)
+
 ---
 
 ### This base includes:
