@@ -24,6 +24,11 @@ This was originally pulled from a server I was head dev on called [Cops VS Civs 
 - Emergency Cars (paid (mostly))
 - Other optional stuff
 
+### Known Bugs:
+
+- ESX Like to throw errors every now and then, this doesn't appear to affect anything, and is just a slight spam in console every now and then. Just haven't had the patience or willingness to fix it, feel free to create a pull request though!
+- GCPhone's camera doesn't work without screenshot-basic I believe, which is not installed in the base by default, so either get it, or don't use the camera.
+
 ---
 
 ### Credits:
