@@ -10,7 +10,7 @@ This was originally pulled from a server I was head dev on called [Cops VS Civs 
 - ESX with Economy Removed
 - Working Phone for Mumble-VOIP
 - All sorts of menu's
-- Sexy ass [HUD](https://github.com/itz-hyperz/hyperzhuddesign-fivem)
+- Sexy af [HUD](https://github.com/itz-hyperz/hyperzhuddesign-fivem)
 - Similar to a knock-off PGN for custom things
 - Discord Integration
 - Fully Functional
