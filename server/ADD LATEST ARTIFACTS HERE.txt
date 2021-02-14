@@ -1,0 +1,3 @@
+ADD LATEST ARTIFACTS HERE!
+
+You can grab them here: https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/
