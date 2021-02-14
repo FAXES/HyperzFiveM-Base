@@ -39,7 +39,7 @@ This was originally pulled from a server I was head dev on called [Cops VS Civs 
 - Recent Upkeep: [Nuclear](https://github.com/Nuclear15)
 - Liveries & Shit: [Chris](https://github.com/RealGroddy)
 - Bugs / Other: [Josh](https://github.com/joshua66553)
-- All Assets are Public on [FiveM](https://forum.cfx.re/c/development/releases/7) or [Github](https://github.com), or they are Custom!
+- All Assets are Public on [FiveM](https://forum.cfx.re/c/development/releases/7), [Github](https://github.com), [GTA5 Mods](https://gta5-mods.com), or they are Custom!
 
 ---
 
