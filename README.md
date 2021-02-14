@@ -15,8 +15,9 @@ This was originally pulled from a server I was head dev on called [Cops VS Civs 
 - Discord Integration
 - Fully Functional
 - Easy Setup
+- No external admin panel
 - Over 200 Resources
-- NO LEAKS! :]
+- NO LEAKS!
 - So Much More!
 
 ### Things you need to add:
