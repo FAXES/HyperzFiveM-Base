@@ -23,6 +23,7 @@ This was originally pulled from a server I was head dev on called [Cops VS Civs 
 
 - EUP (paid)
 - Emergency Cars (paid (mostly))
+- Paid Patreon FiveM Key
 - Other optional stuff
 
 ### Known Bugs:
