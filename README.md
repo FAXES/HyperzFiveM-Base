@@ -5,10 +5,6 @@ This was originally pulled from a server I was head dev on called [Cops VS Civs 
 
 ---
 
-Sorry about it being in a ZIP file, only way to put it on Github without destroying my stats, and my storage.
-
----
-
 ### This base includes:
 
 - ESX with Economy Removed
