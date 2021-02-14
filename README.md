@@ -26,7 +26,7 @@ This was originally pulled from a server I was head dev on called [Cops VS Civs 
 
 - EUP (paid)
 - Emergency Cars (paid (mostly))
-- Paid Patreon FiveM Key
+- Paid Patreon FiveM Key (Needed for the Phone to work)
 - Other optional stuff
 
 ### Known Bugs:
