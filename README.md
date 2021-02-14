@@ -16,6 +16,7 @@ This was originally pulled from a server I was head dev on called [Cops VS Civs 
 - Fully Functional
 - Easy Setup
 - Over 200 Resources
+- NO LEAKS! :]
 - So Much More!
 
 ### Things you need to add:
