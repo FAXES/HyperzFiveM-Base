@@ -36,6 +36,28 @@ This was originally pulled from a server I was head dev on called [Cops VS Civs 
 
 ---
 
+### How to install:
+
+- Download files from zip
+- Extract to a folder
+- Add [latest artifacts](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/) to the "server" folder
+- Download [XAMPP](https://www.apachefriends.org/index.html) (You need Apache, and MySQL when in the install wizard)
+- Download [HeidiSQL](https://www.heidisql.com/download.php)
+- Open HeidiSQL and setup what it asks you to
+- Create a new database called `essentialmode`
+- Import [this]() SQL file into the database
+- Configure your `server.cfg` & `permissions.cfg` folder
+- Swap out the logo in the `server-data` folder to be your server logo (96 x 96 px)
+- Configure **ALL** of the resources in these folders: `[DISCORD], [Priority], [LEOCars], and [FireCars]`
+- Double check your `server.cfg` file is good to go
+- Configure the `StartServer.bat` file to be the current directory of your files
+- Run the `StartServer.Bat` file
+- You now have a working whitelisted server! (To remove whitelist, remove the `Guardian` resource)
+
+Run into any problems? Go through the procedure again, make sure you got it right.
+
+---
+
 ### Credits:
 - Origin: [Hyperz](https://hyperz.dev/github)
 - Recent Upkeep: [Nuclear](https://github.com/Nuclear15)
