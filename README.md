@@ -45,7 +45,8 @@ This was originally pulled from a server I was head dev on called [Cops VS Civs 
 - Download [HeidiSQL](https://www.heidisql.com/download.php)
 - Open HeidiSQL and setup what it asks you to
 - Create a new database called `essentialmode`
-- Import [this]() SQL file into the database
+- Import all SQL files from the resources in the `[esx]` folder into the SQL database **--CRUCIAL**
+- Import the SQL Files from the resource**s** in the `[PHONE]` folder
 - Configure your `server.cfg` & `permissions.cfg` folder
 - Swap out the logo in the `server-data` folder to be your server logo (96 x 96 px)
 - Configure **ALL** of the resources in these folders: `[DISCORD], [Priority], [LEOCars], and [FireCars]`
