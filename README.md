@@ -9,7 +9,7 @@ This was originally pulled from a server I was head dev on called [Cops VS Civs 
 
 ### This base includes:
 
-- ESX with Economy Removed
+- ESX with Economy Removed (It is just FXServer with a database to store phone numbers, calls, messages, tweets, etc)
 - Working [Phone](https://github.com/Re-Ignited-Development/Re-Ignited-Phone) for Mumble-VOIP
 - All sorts of menu's
 - Sexy af [HUD](https://github.com/itz-hyperz/hyperzhuddesign-fivem)
