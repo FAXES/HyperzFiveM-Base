@@ -1,0 +1,9 @@
+[DISCORD] folder
+[Priority] folder
+[LEOCars] folder
+[FireCars] folder
+server.cfg file
+permissions.cfg file (already good to go, but should still check)
+logo.png (make it your server logo, image should be 96px by 96px and named 'logo.png')
+
+Possibly other stuff, idk lol
