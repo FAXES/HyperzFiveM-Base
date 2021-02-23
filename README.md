@@ -65,6 +65,7 @@ Run into any problems? Go through the procedure again, make sure you got it righ
 - Liveries & Shit: [Chris](https://github.com/RealGroddy)
 - Bugs / Other: [Josh](https://github.com/joshua66553)
 - All Assets are Public on [FiveM](https://forum.cfx.re/c/development/releases/7), [Github](https://github.com), [GTA5 Mods](https://gta5-mods.com), or they are Custom!
+- **Good Resources:** [FAXES.TOP](http://faxes.top). Join my netflix party!
 
 ---
 
